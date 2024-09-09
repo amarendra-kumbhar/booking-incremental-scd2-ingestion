@@ -4,7 +4,7 @@
 This project aims to implement an incremental SCD2 merge ingestion pipeline for Booking.com data using Databricks. 
 The pipeline reads daily booking and customer data, performs data quality checks, and merges the data into Delta Tables using SCD2 methodology.
 
-### Workflow Animation
+### Workflow
 Here is a dynamic representation of the data processing workflow:
 
 ![Workflow Animation](docs/Workflow_Animation.gif)
