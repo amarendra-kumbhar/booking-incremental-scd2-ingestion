@@ -26,7 +26,6 @@ Here is a dynamic representation of the data processing workflow:
 ### Project Structure
 - **`docs/`**: Contains documentation and diagrams.
 - **`src/`**: Source code for transformations, data quality checks, and workflow configurations.
-- **`tests/`**: Unit tests and validation scripts.
 - **`notebooks/`**: Jupyter or Databricks notebooks used for data processing.
 - **`data/`**: Contains sample data files for testing.
 
